@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════╗
-║      recon-dorker — Google Dork Recon        ║
+║      recon-dorker — Google Dork Recon    ║
 ║       Bug Bounty Edition                 ║
 ║       By RyuuKhagetsu                    ║
 ╚══════════════════════════════════════════╝
